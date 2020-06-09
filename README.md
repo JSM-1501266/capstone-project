@@ -1,29 +1,29 @@
-# 永進專門大學校 キャプストンデザイン バリバリチーム
- ● 学科 : コンピューター情報系列ウェブデータベース<br>
- ● 担当教授 : ジョン·ヨンチョル 教授<br>
- ● 学生名 : ジョン・ヒョンジェ、ユ・ソヨン、キム・ギウン、キム・ミンジュン、ゾ・ミンシク、ジョン・ソンミン<br> 
+# Youngjin College Capstone Design Baribari Team
+ ● department : Computer information affiliation web database<br>
+ ● Professor in charge : Prof. Young-Chul Jeong<br>
+ ● Student name : Jeong Hyeonjae, Kim Minjung , Kim Giun, Jo Minsik , Yu Soyeong , Jeong Seongmin <br> 
  
-# プロジェクトの目的
- 本プロジェクトはキャンパス、役所など限られた区域内での自動走行配達システムの開発を目指す。
+# Project purpose
+ This project aims to develop an automated driving delivery system within a limited area such as a campus or government office.
 
-# 担当した役割
- ● 学生名 : ジョン・ソンミン<br> 
- ● 担当役割内容 : 管理者が停留所、チェックポイント、経路RCカーを管理できるページ
+# Role in charge
+ ● Student name : Jeong Seongmin<br> 
+ ● Role content : Page where administrator can manage stops, checkpoints, route RC cars
  
-# 作業期間
- ● カテゴリ<br> 
-  -5月9日 : 停留所管理(登録、修正/削除)、チェックポイント管理(登録、修正/削除)、rcカー管理、経路管理(登録、修正/削除)カテゴリを作り
+# Work period
+ ● category<br> 
+  - May 9 : Create bus stop management (create, update/delete), checkpoint management (create, update/delete), rc car management, route management (create, update/delete) button 
   
  ● 停留所管理<br> 
-  -5月9日　~　5月11日 : 停留所登録を作り<br>
-  -5月12日　~　5月14日 : 停留所の修正や削除を作り<br>
+  - May 9　~ 12 : Create, create bus stop<br>
+  - May 12 ~ 14 : Create, update and delete bus stop<br>
  
  ● チェックポイント管理<br> 
-  -5月15日　~　5月16日 :  チェックポイント登録や修正や削除を作り<br>
+  - May 15 ~ 16 :  Create, create and update and delete checkpoint<br>
                   
  ● RCカー管理<br> 
-  -5月17日　~　5月19日 : RCカーの登録や修正や削除を作り<br>
+  - May 17 ~ 19 : Create, create and update and delete rccar<br>
                   
  ● 経路管理<br> 
-  -5月20日　~　5月24日 : 経路登録を作り<br>
-  -5月25日　~　5月31日 : 経路修正や削除を作り<br>
+  - May 20 ~ 24 : Create, create bus stop path<br>
+  - May 25 ~ 31 : Create, update and delete bus stop path<br>
