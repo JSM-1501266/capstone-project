@@ -14,16 +14,16 @@
  ● category<br> 
   - May 9 : Create bus stop management (create, update/delete), checkpoint management (create, update/delete), rc car management, route management (create, update/delete) button 
   
- ● 停留所管理<br> 
+ ● bus stop management<br> 
   - May 9　~ 12 : Create, create bus stop<br>
   - May 12 ~ 14 : Create, update and delete bus stop<br>
  
- ● チェックポイント管理<br> 
+ ● checkpoint management<br> 
   - May 15 ~ 16 :  Create, create and update and delete checkpoint<br>
                   
- ● RCカー管理<br> 
+ ● rc car management<br> 
   - May 17 ~ 19 : Create, create and update and delete rccar<br>
                   
- ● 経路管理<br> 
+ ● path management<br> 
   - May 20 ~ 24 : Create, create bus stop path<br>
   - May 25 ~ 31 : Create, update and delete bus stop path<br>
