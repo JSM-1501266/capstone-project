@@ -1,9 +1,5 @@
 # 영진전문대학교 2020-캡스톤디자인 バリバリチーム
-# capstone_project-Autonomous driving delivery
-The development of autonomous driving delivery systems within restricted areas, such as campuses, government offices, etc.
-
-# 프로젝트 バリバリ팀
- ● 학과 : 컴퓨터정보계열 웹데이터베이스<br>
+ ● 학과 : 컴퓨터정보계열 웹데이터베이스 일본취업주문반<br>
  ● 담당 교수 : 정영철 교수님<br>
  ● 학부생 : 정현재, 유소영, 김기운, 김민중, 조민식, 정성민<br> 
  
