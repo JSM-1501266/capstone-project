@@ -2,11 +2,18 @@
 # capstone_project-Autonomous driving delivery
 The development of autonomous driving delivery systems within restricted areas, such as campuses, government offices, etc.
 
-##프로젝트 팀##
-담당
+# 프로젝트 バリバリ팀
+ ● 학과 : 컴퓨터정보계열 웹데이터베이스
+ ● 담당 교수 : 정영철 교수님
+ ● 학부생 : 정현재, 유소영, 김기운, 김민중, 조민식, 정성민
+ 
+# 프로젝트 개요
+ 본 프로젝트는 캠퍼스, 관공서 등 제한된 구역 내에서의 자율 주행 배달 시스템 개발을 목표로 한다. 
+
+# 담당했던 역할
  정성민 : 관리자가 관리하는 프론트엔드에서 관리 페이지를 담당
  
-작업기한
+# 작업기한
  ● 카테고리 
   - 5월 9일 : 정류장관리(등록, 수정/삭제), 체크포인트관리(등록,수정/삭제), rc카관리, 경로관리(등록, 수정/삭제) 카테고리 구현
  ● 정류장관리
