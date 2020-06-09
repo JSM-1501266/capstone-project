@@ -1,3 +1,4 @@
+##영진전문대학교 2020-캡스톤디자인 バリバリチーム##
 # capstone_project-Autonomous driving delivery
 The development of autonomous driving delivery systems within restricted areas, such as campuses, government offices, etc.
 
