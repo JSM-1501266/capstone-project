@@ -3,9 +3,9 @@
 The development of autonomous driving delivery systems within restricted areas, such as campuses, government offices, etc.
 
 # 프로젝트 バリバリ팀
- ● 학과 : 컴퓨터정보계열 웹데이터베이스
- ● 담당 교수 : 정영철 교수님
- ● 학부생 : 정현재, 유소영, 김기운, 김민중, 조민식, 정성민
+ ● 학과 : 컴퓨터정보계열 웹데이터베이스 
+ ● 담당 교수 : 정영철 교수님 
+ ● 학부생 : 정현재, 유소영, 김기운, 김민중, 조민식, 정성민 
  
 # 프로젝트 개요
  본 프로젝트는 캠퍼스, 관공서 등 제한된 구역 내에서의 자율 주행 배달 시스템 개발을 목표로 한다. 
