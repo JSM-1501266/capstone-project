@@ -11,7 +11,7 @@ The development of autonomous driving delivery systems within restricted areas, 
  본 프로젝트는 캠퍼스, 관공서 등 제한된 구역 내에서의 자율 주행 배달 시스템 개발을 목표로 한다. 
 
 # 담당했던 역할
- ● 학부생 이름 : 정성민
+ ● 학부생 이름 : 정성민<br> 
  ● 담당 역할 : 관리자가 정류장, 체크포인트, 경로 RC카를 관리할 수 있는 페이지 
  
 # 작업기한
